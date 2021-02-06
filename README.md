@@ -2,9 +2,9 @@
 **(pronounced co-ply)**
 
 Contributers:
-- Matthew Fan (mrf441)
-- Andrew Huang (ah4670)
-- Jay Li Quek (jlq214)
+- Matthew Fan ([mattfan00](https://github.com/mattfan00) | mrf441)
+- Andrew Huang ([ando-huang](https://github.com/ando-huang) | ah4670)
+- Jay Li Quek ([jayliquek](https://github.com/jayliquek) | jlq214)
 
 ## What and why?
 Copply is a web application used to address the inefficiencies in job applications. Traditionally, an applicant would go to a company’s website to apply for a job. Once they arrive at the job application, they would have to upload their resume, then fill out all of the basic information found on their resume all over again (due to faulty resume scanners). This is a problem for multiple reasons. One, it annoys the applicants who have to fill out the same information over and over again: an applicant can easily apply to at least 100 companies and each time they apply, they most likely will have to fill out the same basic information. Two, it detracts the applicant from devoting their time to answering the company specific questions an application would have (like why do you want to work here?), possibly making their answers weaker and making them less attractive to companies who want to hire high quality individuals.
